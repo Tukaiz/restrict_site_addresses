@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = RestrictSiteAddresses::VERSION
   spec.authors       = ["Mirai"]
   spec.email         = ["RobertRMiner@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "Restricted Site Address Feature"
+  spec.description   = "Restricted Site Address Feature"
+  spec.homepage      = "https://github.com/Tukaiz/restrict_site_addresses"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
